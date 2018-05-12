@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '43448'
     url: http://www.gutenberg.org/2009/agents/43448
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45786#Their-Majesties-as-I-Knew-ThemPersonal-Reminiscences-of-the-Kings-and-Queens-of-Europe
 gutenberg_issued: '2014-05-27'
 gutenberg_type: Text
 identifiers:
